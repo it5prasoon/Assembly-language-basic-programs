@@ -1,2 +1,2 @@
-# 8085_Assembly_programs
-It contains basic 8085 assembly programs.
+# Assembly Language Basic Programs
+It contains basic assembly programs of Intel 8085, Intel IA32 etc.
